@@ -1,38 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mert Okyay
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate Researcher in Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: University of Miami
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests range from cosmology to quantum computing theory - lately I am focusing on Condensed Matter Physics, in understanding high-Tc superconductors. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- High Tc Superconductors
+- Topological Materials
+- Quantum Information Theory - Holography
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+<!--   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    year: 2009 -->
+  - course: BSc in Physics and Mathematics with Departmental Honors
+    institution: University of Miami
     year: 2008
 
 # Social/Academic Networking
@@ -70,8 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mert Okyay is a theorist/experimentalist mix working on problems in a variery of disciplines, the most important being how annoying graduate school applications are. His research interests include procrastinating by building this website, statistical mechanics and how to make money as a physicist (it's hard).  He is currently applying to graduate school and would really love to attend your university.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
