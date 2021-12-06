@@ -11,7 +11,7 @@ role: Undergraduate Researcher in Physics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Miami
-  url: https://www.stanford.edu/
+  url: https://physics.as.miami.edu/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests range from cosmology to quantum computing theory - lately I am focusing on Condensed Matter Physics, in understanding high-Tc superconductors. 
@@ -33,7 +33,7 @@ education:
 #    year: 2009
   - course: BSc in Physics and Mathematics with Departmental Honors
     institution: University of Miami
-    year: 2008
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +42,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: mokyay@miami.edu
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?authuser=1&user=OhOh1HsAAAAJ
+- icon: inspire
+  icon_pack: ai
+  link: https://inspirehep.net/authors/1906460
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Mert-Okyay
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/mert-okyay/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-Mert Okyay is a theorist/experimentalist mix working on problems in a variery of disciplines, the most important being how annoying graduate school applications are. His research interests include procrastinating by building this website, statistical mechanics and how to make money as a physicist (it's hard).  He is currently applying to graduate school and would really love to attend your university.
+Mert Okyay is an aspiring theorist/experimentalist mix working on problems in a variery of disciplines, the most important being how annoying graduate school applications are. His research interests include procrastinating by building this website, statistical mechanics and how to make money as a physicist (it's hard).  He is currently applying to graduate school and would really love to attend your university.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
