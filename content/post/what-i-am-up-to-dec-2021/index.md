@@ -4,7 +4,7 @@ subtitle: PhD applications done. Physics degree done (done last year). First
   paper waiting to be published. What now?
 date: 2021-12-28T04:06:31.917Z
 draft: false
-featured: false
+featured: true
 image:
   filename: cats.jpeg
   focal_point: Smart
