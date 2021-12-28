@@ -5,9 +5,18 @@ subtitle: PhD applications done. Physics degree done (done last year). First
 date: 2021-12-28T04:06:31.917Z
 draft: false
 featured: true
+authors:
+  - admin
+tags:
+  - Life
+categories:
+  - Cats
+projects:
+  - Quantum Computing and Bethe Ansatz
+  - Piezoelectric Crystals
 image:
   filename: cats.jpeg
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
   caption: Benji(left), Sunny(right)
 ---
