@@ -17,13 +17,16 @@ categories:
   - Electromagnetism
 projects: []
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2108.07766.pdf"
 summary: "A phenomenological paper studying a recent nonlinear electrodynamics
   model in extreme gravity. Mainly numerical methods are employed. "
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom: [{name = "inSPIRE", url = "https://inspirehep.net/literature/1906459"}]
 author_notes:
   - University of Miami
   - Eastern Mediterranean University
