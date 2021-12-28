@@ -35,8 +35,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Mert Okyay is an aspiring theorist/experimentalist mix working on problems in a variery of disciplines, the most important being how annoying graduate school applications are. His research interests include procrastinating by building this website, statistical mechanics and how to make money as a physicist (it's hard).  He is currently applying to graduate school and would really love to attend your university.
-
+I am an aspiring theorist/experimentalist mix with broad experiences and interests, with a recent focus on intersection of quantum computing and condensed matter physics. My research interests include procrastinating by building this website, statistical mechanics and figuring out how to make money as a physicist (it's hard).  I am currently applying to graduate school and would really love to attend your university.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
