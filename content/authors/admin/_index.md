@@ -1,75 +1,38 @@
 ---
-# Display name
 title: Mert Okyay
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: Undergraduate Researcher in Physics
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: University of Miami
-  url: https://physics.as.miami.edu/index.html
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests range from cosmology to quantum computing theory - lately I am focusing on Condensed Matter Physics, in understanding high-Tc superconductors. 
-
-# Interests to show in About widget
+bio: My research interests range from cosmology to quantum computing theory -
+  lately I am focusing on learning condensed matter physics, with an interest on
+  magnetism and dynamic oscillators.
 interests:
-- High Tc Superconductors
-- Topological Materials
-- Quantum Information Theory - Holography
-
-# Education to show in About widget
+  - Topological Materials
+  - Quantum Information Theory
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:mokyay@miami.edu
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?authuser=1&user=OhOh1HsAAAAJ
+  - icon: inspire
+    icon_pack: ai
+    link: https://inspirehep.net/authors/1906460
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Mert-Okyay
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/mert-okyay/
+organizations:
+  - name: University of Miami
+    url: https://physics.as.miami.edu/index.html
 education:
   courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-  - course: BSc in Physics and Mathematics with Departmental Honors
-    institution: University of Miami
-    year: 2022
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:mokyay@miami.edu
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?authuser=1&user=OhOh1HsAAAAJ
-- icon: inspire
-  icon_pack: ai
-  link: https://inspirehep.net/authors/1906460
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Mert-Okyay
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/mert-okyay/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: BSc in Physics and Mathematics with Departmental Honors
+      institution: University of Miami
+      year: 2022
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: true
 ---
 
