@@ -28,9 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Theory
-    tag: th
+    tag: theory
   - name: Experimental
-    tag: ex
+    tag: experiment
 
 
 links:
