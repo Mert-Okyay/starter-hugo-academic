@@ -17,7 +17,7 @@ abstract: ""
 draft: false
 tags:
   - GR
-  - th
+  - theory
 slides: ""
 url_pdf: https://arxiv.org/pdf/2108.07766.pdf
 categories:
