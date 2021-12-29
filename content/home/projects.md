@@ -9,7 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: 
+  - name: Projects
+  - url: "projects/"
 subtitle: ''
 
 content:
