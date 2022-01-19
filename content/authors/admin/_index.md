@@ -37,4 +37,4 @@ highlight_name: true
 ---
 I am an aspiring theorist/experimentalist mix with broad experiences and interests, with a recent focus on intersection of quantum computing and condensed matter physics. My research interests include procrastinating by building this website, statistical mechanics and figuring out how to make money as a physicist (it's hard).  I am currently applying to graduate school and would really love to attend your university.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/okyayCV.pdf" "newtab" >}}resumé{{< /staticref >}}.
