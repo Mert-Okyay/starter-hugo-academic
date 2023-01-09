@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:mokyay@miami.edu
+    link: mailto:mert.okyay@colorado.edu
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=gtdsLXQAAAAJ&hl=en&inst=12445218673517910016
@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mert-okyay/
 organizations:
-  - name: University of Miami
-    url: https://physics.as.miami.edu/index.html
+  - name: University of Colorado Boulder
+    url: https://www.colorado.edu/physics/
 education:
   courses:
     - course: BSc in Physics and Mathematics with Departmental Honors
